@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/316.ab1ba004.chunk.css","mappings":"AAAA,gBAGI,kBAAmB,CAFnB,YAAa,CAGb,cAAe,CAFf,4BAIF","sources":["components/Details/summary.css"],"sourcesContent":[".pie-charts-row {\n    display: flex;\n    justify-content: space-around;\n    align-items: center;\n    flex-wrap: wrap;\n    \n  }\n  "],"names":[],"sourceRoot":""}
